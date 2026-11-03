@@ -1,0 +1,28 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Todo OK 😀
+
+Has utilizado la rama editar-readme, modificado el README
+y fusionado los cambios en main mediante una pull request.
+¡El flujo de trabajo está bien hecho!
+
+He leído que está siendo más difícil de lo que esperabas.
+Es normal al empezar con una herramienta nueva: aprender
+necesita tiempo y práctica :-)
+
+Estamos en segundo curso de un Ciclo Superior y aquí
+venimos a aprender cosas interesantes, probar, equivocarnos
+y también divertirnos. No hace falta que todo salga
+a la primera; lo importante es ir entendiendo lo que haces.
+
+Para las siguientes prácticas, intenta dar un poco más
+de contenido a lo que escribes: una breve presentación
+en el README y mensajes de commit que expliquen qué cambias
+y para qué. Los de esta entrega identifican el cambio,
+pero puedes aprovecharlos para explicar mejor su propósito.
+No es imprescindible ampliarlos ahora; es un hábito
+que iremos trabajando.
+
+Puedes fusionar esta PR para incorporar la devolución.
+La práctica queda revisada y puedes borrar el repositorio
+cuando quieras. ¡Buen trabajo!
